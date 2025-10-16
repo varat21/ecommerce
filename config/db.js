@@ -13,7 +13,7 @@ async function connectDB() {
       bufferCommands: false,
     };
     cache.promise = mongoose
-      .connect(`${process.env.MONGODB_URI}/ecommerece`, opts)
+      .connect(`${process.env.MONGODB_URI}/RentEasy-ecommerece`, opts)
       .then((mongoose) => {
         return mongoose;
       });
