@@ -11,7 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^6.33.3",
     "axios": "^1.12.2",
-    "inngest": "^3.44.2",
+    "inngest": "^3.44.3",
     "mongoose": "^8.19.1",
     "next": "15.5.4",
     "react": "19.2.0",

@@ -2,7 +2,7 @@ import { Inngest } from "inngest";
 import connectDB from "./db";
 import User from "@/models/Users";
 
-export const inngest = new Inngest({ id: "E-commerce-nextjs" });
+export const inngest = new Inngest({ id: "RentEasy-ecommerece" });
 
 //Inngest funct to save data in database
 
